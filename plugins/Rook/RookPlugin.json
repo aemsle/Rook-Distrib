@@ -1,0 +1,15 @@
+{
+  "Author": "Adam Emslie",
+  "Name": "Rook Plugin",
+  "InternalName": "RookPlugin",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Rook is a proof of concept that allows for checking gear upgrades at a glance.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "XIVs very own Pawn."
+}

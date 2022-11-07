@@ -1,0 +1,21 @@
+[
+    {
+        "Author": "Adam Emslie",
+        "Name": "Rook Plugin",
+        "Punchline": "XIVs very own Pawn.",
+        "Description": "Rook is a proof of concept that allows for checking gear upgrades at a glance.",
+        "InternalName": "RookPlugin",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/aemsle/Rook-Distrib",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "DownloadLinkInstall": "https://github.com/aemsle/Rook-Distrib/raw/main/Rook/",
+        "IconUrl": "https://github.com/aemsle/Rook-Distrib/main/icons/Rook.png",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/aemsle/Rook-Distrib/raw/main/Rook/",
+        "DownloadLinkUpdate": "https://github.com/aemsle/Rook-Distrib/raw/main/Rook/latest.zip",
+        
+        "DownloadCount": 0
+    }
+]
