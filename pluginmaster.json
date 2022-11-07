@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Adam Emslie",
+        "Name": "Rook Plugin",
+        "Punchline": "A short one-liner that shows up in /xlplugins.",
+        "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+        "InternalName": "RookPlugin",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "plugin",
+            "goats"
+        ],
+        "DalamudApiLevel": 7,
+        "DownloadLinkInstall": "https://github.com/aemsle/Rook-Distrib/raw/main/plugins/RookPlugin/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/aemsle/Rook-Distrib/main/icons/RookPlugin.png",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/aemsle/Rook-Distrib/raw/main/plugins/RookPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/aemsle/Rook-Distrib/raw/main/plugins/RookPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1667798862"
+    }
+]
