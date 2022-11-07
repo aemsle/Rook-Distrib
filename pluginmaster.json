@@ -2,8 +2,8 @@
     {
         "Author": "Adam Emslie",
         "Name": "Rook Plugin",
-        "Punchline": "A short one-liner that shows up in /xlplugins.",
-        "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+        "Punchline": "XIVs very own Pawn.",
+        "Description": "Rook is a proof of concept that allows for checking gear upgrades at a glance.",
         "InternalName": "RookPlugin",
         "AssemblyVersion": "0.0.0.1",
         "ApplicableVersion": "any",
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/aemsle/Rook-Distrib/raw/main/plugins/RookPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/aemsle/Rook-Distrib/raw/main/plugins/RookPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1667799464"
+        "LastUpdate": "1667800409"
     }
 ]
